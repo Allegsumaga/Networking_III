@@ -6,8 +6,135 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.App-header{
+  background-color: #282c34;
+  color: white;
+}
+.Image-Container {
+  margin-top: 20px;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.My-Image {
+  max-width: 50%;
+  height: auto;
+}
+
+.CreatorDetail {
+  background-color: #f0f0f0 ;
+  padding: 20px;
+}
+
+.Text-Container{
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.Text-Container h1{
+  color: #333;
+}
+
+.Text-Container p {
+  color: #666; /* Set color for the paragraphs */
+}
+
+.Text-Container2{
+  background-color: #000;
+  padding: 20px;
+}
+
+.Text-Container2 h1{
+  color: #FFF;
+}
+
+.Text-Container3{
+  background-color: #808080;
+  padding: 20px;
+}
+
+.Text-Container3 p{
+  color: #FFF;
+}
+
+.Text-Container4 {
+  background-color: #000;
+  padding: 20px;
+}
+
+.Text-Container4 h1{
+  color: #FFF;
+}
+
+.Text-Container5{
+  background-color: #000;
+  padding: 20px;
+}
+
+.Text-Container5 h1{
+  color:#FFF;
+}
+
+.Text-Container6 {
+  background-color: #000;
+  padding: 20px;
+}
+
+.Text-Container6 h1{
+  color:#FFF;
+}
+
+.Text-Container7{
+  background-color: #000;
+  padding: 20px;
+}
+
+.Text-Container7{
+  background-color: #000;
+  padding: 20px;
+}
+
+.Text-Container7 h1{
+  color:#FFF;
+}
+
+.Text-Container7 ul{
+  color:#FFF;
+  list-style-type:none;
+  padding: 0;
+}
+
+.Text-Container7 li{
+  margin-bottom: 10px;
+}
+
+.Text-Container8 {
+  background-color: #000;
+  padding: 20px;
+}
+
+.Text-Container8 h1{
+  color: #FFF;
+}
+
+.Text-Container9 {
+  background-color: #000;
+  padding: 20px;
+}
+
+.Text-Container9 h1{
+  color: #FFF;
+}
+
+.Text-Container9 ul{
+  color:#FFF;
+  list-style-type:none;
+  padding: 0;
+}
+
+.Text-Container9 li{
+  margin-bottom: 10px;
 }
